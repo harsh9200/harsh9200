@@ -1,7 +1,7 @@
 # Hello! 👋
 
 My name is Harsh Agarwal and I'm a tech enthusiast from India who enjoys building solutions to everyday problems with code.
-
+Discord: Phoenix#4058
 
 ## 🔧 Technologies & Tools
 
