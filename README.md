@@ -1,7 +1,7 @@
 # Hello! 👋
 
 My name is Harsh Agarwal and I'm a tech enthusiast who enjoys building solutions to everyday problems with code. I am currently working on Web3.
-Discord: Phoenix#4058
+
 
 ## 🔧 Technologies & Tools
 
