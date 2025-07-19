@@ -1,6 +1,6 @@
-# Hello! 👋
+# 👋 Hello, I’m Harsh
 
-My name is Harsh Agarwal and I'm a tech enthusiast who enjoys building solutions to everyday problems with code. I am currently working on Web3.
+I’m a builder at heart — started with data science, ventured into DevOps and MLOps, and now working deep in the Web3 stack. I enjoy solving real-world problems with clean, scalable infrastructure and am especially drawn to anything that sits at the intersection of **data, infra, and blockchain**.
 
 
 ## 🔧 Technologies & Tools
